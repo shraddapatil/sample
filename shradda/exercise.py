@@ -4,4 +4,5 @@ print("below are git commands")
 "git add ."
 
 print("python is easy or difficult")
+print("it is interpreted lang")
 
