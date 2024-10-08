@@ -4,6 +4,3 @@ for i in l:
     print(i)
     
 print(sum(l))
-
-def func_sort(l):
-    print(l.sort())
